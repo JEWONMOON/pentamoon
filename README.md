@@ -1,4 +1,4 @@
-# DialogAlarm
+#  readme  실행 전 읽어주세요
 
 윈도우 알림 설정 방법
 
